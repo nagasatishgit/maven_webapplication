@@ -1,3 +1,18 @@
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\Alenora.HTML">lenora</A>|
+
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\A..HTML">collage</A>|
+
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatishMY DOCUMENTS\A.HTML">fauculty</A>|
+
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\satish.HTMl">Infrastructure</A>|
+
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\star.HTML">administration</A>|
+
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\sat.HTML">features & placementdesk</A>|
+
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\A.HTML">transport</A>|
+
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\A.HTML">Downloads</A>
 i<html>
 <head>
 <TITLE></TITLE>
@@ -88,6 +103,17 @@ href="h:/wallpapers/lce/a.html">contauous</a>
 prohibited.</SPAN><BR><SPAN class=footer_text1>This site is best viewed by
 Internet Explorer 6 and above versions with 1024 * 768 Pixels and Firefox 2.0.1
 and above versions</p>  </span> </div>
+<div class=fotter_img style=text align="center">
+<p class=fotter_text>
+<a href="c:/documents and settings/nagasatish/my documents/a.html">Home</a>|<a
+href="h:/wallpapers/lce/a.html">contauous</a>
+<span class=fotter_text>
+<P ALIGN="center">Copyright © 2010 Lenora College of Engineering
+| All rights reserved | Reproduction in whole or in part without permission is
+prohibited.</SPAN><BR><SPAN class=footer_text1>This site is best viewed by
+Internet Explorer 6 and above versions with 1024 * 768 Pixels and Firefox 2.0.1
+and above versions</p>  </span> </div>
+
 
 </body>
 </html>
